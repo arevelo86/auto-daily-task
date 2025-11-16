@@ -1,0 +1,1 @@
+=IMPORTDATA("https://raw.githubusercontent.com/arevelo86/auto-daily-task/main/leads_usa_free.csv")
